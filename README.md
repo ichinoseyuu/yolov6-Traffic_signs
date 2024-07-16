@@ -1,1 +1,5 @@
 # yolov6-Traffic_signs
+此项目非原创项目，相较于参考项目，使用pyqt5做了可视化界面。
+参考项目 <https://github.com/hao-ux/YOLOv6_Traffic_signs> 
+权重文件链接 (蓝奏云)<https://ichinoseyuu.lanzn.com/iQA2H24m30yb>
+数据集链接 <https://aistudio.baidu.com/aistudio/datasetdetail/49531>
