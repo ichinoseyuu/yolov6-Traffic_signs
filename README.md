@@ -6,7 +6,7 @@
 
 ---
 
--详细类容可以参考我的博客 <https://ichinoseyuu.github.io/2024/03/28/YOLOv6-Traffic-signs>  
+-<[详细类容可以参考我的博客](https://ichinoseyuu.github.io/2024/03/28/release-yolov6-Traffic-signs/)>  
 
 -参考项目链接 <https://github.com/hao-ux/YOLOv6_Traffic_signs>   
 
